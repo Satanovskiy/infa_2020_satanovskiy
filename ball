@@ -1,0 +1,6 @@
+import graphics as gr
+
+WIDTH = 800
+HEIGHT = 400
+
+window = gr.Wind(WIDTH,HEIGHT)
